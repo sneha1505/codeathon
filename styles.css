@@ -248,7 +248,7 @@ header .search-bar-container label:hover {
 .home {
   min-height: 100vh;
   display: flex;
-  background-image: url("codeathon.png");
+  background-image: url("../codeathon.png");
   background-size: 1520px;
   align-items: center;
   justify-content: center;
